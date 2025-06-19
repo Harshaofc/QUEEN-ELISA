@@ -9,7 +9,7 @@ module.exports = {
 SESSION_ID: process.env.SESSION_ID || 'QUEEN-ELISA~6ddjnJ7S#ZHKKKD7XvDwVkhogGEoie6mVA1-OfCC-rhnSA9ngbtM',
 POSTGRESQL_URL: process.env.POSTGRESQL_URL || 'postgresql://sadiya:MTCV3kmoO4YSt6bcK8naY9WCRRO7wL2v@dpg-d07n7k2li9vc73ff97bg-a/sula_md_db',
 LANG: process.env.BOT_LANG || 'EN' ,
-PREFIX: process.env.PREFIX || '#',
+PREFIX: process.env.PREFIX || '.',
 ANTI_BAD: process.env.ANTI_BAD || 'false',
 MAX_SIZE: process.env.MAX_SIZE || 300,
 ONLY_GROUP: process.env.ONLY_GROUP || 'false',
